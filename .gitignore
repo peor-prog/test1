@@ -1,0 +1,4 @@
+venv/
+cafe.db
+__pycache__/
+.vscode/
